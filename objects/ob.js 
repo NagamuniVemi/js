@@ -1,0 +1,15 @@
+//objects are the key value pairs
+//objects can be declared as two types mainly
+//          1.literals
+//          2.constructor    ->singleton 
+
+
+//object literals
+const jsuesr={
+    name:"muni",
+    age:18,
+    location:"kadapa,
+    email:"nagamunirdeddyofficial@gmail.com"
+
+}
+console.log(jsuser.email)
