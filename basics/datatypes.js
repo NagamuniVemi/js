@@ -9,3 +9,4 @@
    undefined      --value is not assigned
 */
 console.log(typeof null)
+const {muni} =req.body
